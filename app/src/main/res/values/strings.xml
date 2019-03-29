@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BluetoothPitcher</string>
+    <string name="connect_devices">Connect Pitcher</string>
+    <string name="find_devices">Find More Devices</string>
+    <string name="select_devices">Select Pitcher</string>
+    <string name="current_pitcher">Name\nAddress</string>
+    <string name="connection_name"></string>
+    <string name="desired_temp">0</string>
+    <string name="is_connected">Not Connected</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="desired_temperature">Desired Temperature</string>
+    <string name="is_Full">Not Full</string>
+    <string name="is_Ready">Not Ready</string>
+</resources>
